@@ -1,4 +1,6 @@
-# Passing and iterating over data, controlled inputs and search bar example.
+# React app example
+
+Passing and iterating over data, controlled inputs and search bar example.
 
 1. Install dependencies in json file
 
