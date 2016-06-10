@@ -1,5 +1,5 @@
-# react-starter-flow
+# Passing and iterating over data, controlled inputs and search bar example.
 
 1. Install dependencies in json file
 
-2. Run 'node_modules\.bin\webpack-server' executable and go to localhost:3030
+2. Run 'node_modules\.bin\webpack-server' executable and run localhost:3030.
